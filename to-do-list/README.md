@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<p><a href="https://reactcounterrr.netlify.app">Live Server</></a></p>
+<p><a href="https://todoslist-reactt.netlify.app">Live Server</></a></p>
 
 ## Available Scripts
 
