@@ -1,6 +1,7 @@
+import HiddenSearchBar from "./hiddenSearchBar";
 
-function App() {
-  return <h1>hi</h1>
-}
+const App = () => {
+  return <HiddenSearchBar />;
+};
 
 export default App;
