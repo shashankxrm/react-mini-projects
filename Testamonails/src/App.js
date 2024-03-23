@@ -1,4 +1,4 @@
-import Testimonials from "./Testamonails";
+import Testimonials from "./Testimonials.js";
 
 function App() {
   return <Testimonials />;
