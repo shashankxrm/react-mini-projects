@@ -1,6 +1,9 @@
 
-function App() {
-  return <h1>hi</h1>
-}
+import Main from "./Main";
+import "./index.css";
+
+const App = () => {
+  return <Main />;
+};
 
 export default App;
